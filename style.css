@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+#first-column {
+  margin-right: 360px;
+}
+
+.text-paragraph {
+  float: left;
+}
+
+.Alben {
+  font-weight: 100px;
+  font-size: 20px;
+}
+.line {
+  width: 900px;
+  height: 57;
+  border-bottom: 1px solid black;
+  position: relative;
+}
+
+.column-right {
+  text-align: right;
+}
+.th-centered {
+  text-align: center;
+  background-color: ;
+}
+
+/* ol {
+  counter-reset: item;
+  margin: 5px;
+}
+li {
+  display: block;
+  margin: 5px;
+}
+ */
